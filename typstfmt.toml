@@ -1,1 +1,4 @@
-/home/aaron/.dotfiles/typst/typstfmt.toml
+indent_space = 4
+max_line_length = 120
+experimental_args_breaking_consecutive = false
+line_wrap = true
